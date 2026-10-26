@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyLocationApp</string>
+    <string name="intro">Locations:</string>
+    <string name="logoCopyright"><![CDATA[©]]> KL Industries LTD</string>
+    <string name="add_new">add new</string>
+    <string name="save_item">Save item</string>
+    <string name="textView_place">Location:</string>
+    <string name="textView_country">Country:</string>
+    <string name="textView_latitude">Latitude:</string>
+    <string name="textView_longitude">Longitude:</string>
+    <string name="textView_date">Date:</string>
+    <string name="textView_rating">Rating:</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="order_by">
+        <item>Location A-Z</item>
+        <item>Location Z-A</item>
+        <item>Rating High-Low</item>
+        <item>Rating Low-High</item>
+        <item>Country</item>
+    </string-array>
+
+
+</resources>
